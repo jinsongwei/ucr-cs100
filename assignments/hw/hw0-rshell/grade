@@ -1,2 +1,2 @@
-0 / 100
-No submission
+90 / 100
+Good point, -10 for checksyscall, -10 for && and || functions should not be same as ;, +10 full prompt
